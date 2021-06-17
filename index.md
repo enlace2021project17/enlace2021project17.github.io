@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ENLACE 2021 Group 17 : Machine learning for computational super-resolution
+---
 
 # People
 ## Research Director
