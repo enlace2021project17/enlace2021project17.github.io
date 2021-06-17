@@ -1,3 +1,5 @@
 theme: jekyll-theme-dinky
-title: ENLACE 2021 Project 17
+title: ENLACE 2021 Project 17.
 description: Machine learning for computational super-resolution
+github:
+  is_project_page: false
