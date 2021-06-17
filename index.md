@@ -1,17 +1,15 @@
 ---
 layout: default
 title: ENLACE 2021 Group 17 : Machine learning for computational super-resolution
----
-# ENLACE 2021 Group 17 : Machine learning for computational super-resolution
 
-## People
-### Research Director
+# People
+## Research Director
 Dr. Piya Pal
 
-### Graduate Student Mentor
+## Graduate Student Mentor
 Jake Millhiser
 
-## Papers
+# Papers
 
 Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang,
 "Image Super-Resolution Using Deep Convolutional Networks,"
@@ -69,12 +67,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 42, No. 2, 
 [arXiv](https://arxiv.org/abs/1703.06870)
 
 
-## Background Topics
+# Background Topics
 In order to do work in Machine Learning applications, it is important that you
 become familiar with the commonly used tools, including Python, PyTorch, and
 Git.
 
-Python   
+## Python   
 
 + [Conda Installation](https://docs.anaconda.com/anaconda/install/)
 + [Conda Enviroments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
@@ -84,12 +82,12 @@ Python
 + [Matplotlib](https://www.kaggle.com/prashant111/matplotlib-tutorial-for-beginners)
 + [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
-Git
+## Git
 
 + [Installation Guide](https://github.com/git-guides/install-git)
 + [Basic Git/Github Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-Text Editor/IDE
+## Text Editor/IDE
 
 + *Recomended*: [VSCode](https://code.visualstudio.com/)
 	- Built-in Git
@@ -99,11 +97,11 @@ Text Editor/IDE
 + [PyCharm](https://www.jetbrains.com/pycharm/)
 	- Optionally installed with anaconda installer.
 
-## Links
+# Links
 [Common Super-Resolution Datasets](https://cvnote.ddlee.cc/2019/09/22/image-super-resolution-datasets)
 [Super Resolution Software](https://users.soe.ucsc.edu/~milanfar/software/superresolution.html)
 
-## Books
+# Books
 Trevor Hastie, Robert Tibshirani, Jerome Friedman,
 "The Elements of Statistical Learning,"
 Springer Series in Statistics, 12th printiing, Jan 2017  
