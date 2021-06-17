@@ -96,7 +96,7 @@ Git.
 	- Optionally installed with anaconda installer.
 
 # Links
-[Common Super-Resolution Datasets](https://cvnote.ddlee.cc/2019/09/22/image-super-resolution-datasets)
+[Common Super-Resolution Datasets](https://cvnote.ddlee.cc/2019/09/22/image-super-resolution-datasets)  
 [Super Resolution Software](https://users.soe.ucsc.edu/~milanfar/software/superresolution.html)
 
 # Books
