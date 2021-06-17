@@ -4,7 +4,7 @@ title: ENLACE 2021 Group 17 : Machine learning for computational super-resolutio
 ---
 
 # People
-Research Director: Dr. Piya Pal
+Research Director: Dr. Piya Pal  
 Graduate Student Mentor: Jake Millhiser
 
 # Papers
